@@ -1,5 +1,5 @@
 # react-training
-A React [https://facebook.github.io/react/] (a JavaScript library for building user interfaces) based workshop to help learn more about React. 
+A React [https://facebook.github.io/react/] (a JavaScript library for building user interfaces) based workshop to help learn more about React.
 
 # Table of contents
 - Stateful vs stateless components
@@ -18,6 +18,13 @@ A React [https://facebook.github.io/react/] (a JavaScript library for building u
 ## Second hour
 - Open Q&A session style where mentors ask questions based on first hour and React in general.
 - Possible time depending: assign drills to mentors to try in teams of 2 depending on numbers in attendance.
+
+# Drills
+- Create a stateful component called Parent that will be used to setup state which will have two properties - name & age. Give these properties values of your choice. Create a stateless component called Child that will render the name & age properties of state. The state must be passed down from Main to Child via props.
+- Create a function sayHello in Parent, this function can just return a console.log('Hello!'). Call this function from the Child component.
+
+# Further readings
+- Lifecycle methods [https://facebook.github.io/react/docs/react-component.html]
 
 # Using this App locally
 - fork this repo
