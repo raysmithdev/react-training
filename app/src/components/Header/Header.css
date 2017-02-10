@@ -1,18 +1,25 @@
 .Header {
   background-color: #222;
-  text-align: center;
-  height: 200px;
+  height: 330px;
   padding: 20px;
   color: white;
 }
 
 .Logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  height: 50px;
 }
 
-.Sub-Title {
-  font-style: italic;
+.Title, .Sub-Title {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+ul {
+  font-weight: lighter;
+}
+
+ul li {
+  margin: 4px 0px;
 }
 
 @keyframes App-logo-spin {

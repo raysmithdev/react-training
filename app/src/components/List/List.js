@@ -1,6 +1,8 @@
 import React from 'react';
 import './List.css';
 
+// Stateless component example
+
 const List = ({ todos, deleteToDo }) => (
   <ul>
     {todos.map((todo, index) => (

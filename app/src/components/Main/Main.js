@@ -4,7 +4,9 @@ import AddToDo from '../AddToDo/AddToDo';
 import List from '../List/List';
 import './Main.css';
 
-class App extends Component {
+// Stateful component example
+
+class Main extends Component {
   constructor() {
     super()
 
@@ -49,4 +51,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Main;
