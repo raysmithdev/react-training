@@ -1,5 +1,5 @@
-# React Training _A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES_ 
-A React (https://facebook.github.io/react/) based workshop to help learn more about React.
+# React Training
+A React (https://facebook.github.io/react/) based workshop to help learn more about React. 
 
 # Table of contents
 - Stateful vs stateless components
