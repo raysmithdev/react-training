@@ -20,8 +20,12 @@ A React [https://facebook.github.io/react/] (a JavaScript library for building u
 - Possible time depending: assign drills to mentors to try in teams of 2 depending on numbers in attendance.
 
 # Drills
-- Create a stateful component called Parent that will be used to setup state which will have two properties - name & age. Give these properties values of your choice. Create a stateless component called Child that will render the name & age properties of state. The state must be passed down from Main to Child via props.
-- Create a function sayHello in Parent, this function can just return a console.log('Hello!'). Call this function from the Child component.
+- Create a component (call it whatever you like, it can be statefull or stateless) that returns a <h1>Hello World</h1>
+
+- Create a stateful component called **Parent** that will be used to setup state which will have two properties - name & age. Give these properties values of your choice. Create a stateless component called **Child** that will render the name & age properties of state. The state must be passed down from Main to Child via props.
+
+- Create a function sayHello in the **Parent** that you created in the last drill, this function can just return a console.log('Hello!'). Call this function from the **Child** component that you also created in the last drill.
+
 
 # Further readings
 - Lifecycle methods [https://facebook.github.io/react/docs/react-component.html]
