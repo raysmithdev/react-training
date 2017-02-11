@@ -46,6 +46,7 @@ class Main extends Component {
             todos={this.state.todos}
           />
         </div>
+        {this.props.children}
       </div>
     );
   }

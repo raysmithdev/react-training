@@ -29,6 +29,7 @@ A React (https://facebook.github.io/react/) based workshop to help learn more ab
 
 ##Further readings
 - Lifecycle methods [https://facebook.github.io/react/docs/react-component.html]
+- React Router docs [https://github.com/ReactTraining/react-router]
 
 ## Using this App locally
 - fork this repo
